@@ -1,2 +1,2 @@
-# movie-app
+Basic movie-app created using #HTML #CSS 
  
